@@ -1,2 +1,3 @@
 # ImageCaptioning
-This project is a small move to make life of Impaired Visionless people simple to certain extend.
+According to the World Health Organization (WHO), 285 million people are visually impaired worldwide, which is nearly 3.6% of the world population. Every year, several blind people lose their lives in accidents. This project will help in building bridges between visually impaired people and their surrounding environment. This Deep Learning model which generates descriptions of an image with the help of the robust combination of Xception model and LSTM(Long short term memory, a type of RNN). We have implemented a deep neural network recurrent architecture that automatically produces a short description of images. Our models use a CNN (Convolution Neural Network) to extract image features. We then feed these features into the NLP(Natural Language Processing) to generate a description of the image.
+![]()
